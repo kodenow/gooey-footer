@@ -8,7 +8,7 @@ const Header = () => {
                 <img src="/KodeNowLogo.png" alt="" width={"200"}/>
             </a>
             <p>
-            Git this FREE react kit
+            Get this FREE react kit
         </p>
         <a
           className="App-link"
