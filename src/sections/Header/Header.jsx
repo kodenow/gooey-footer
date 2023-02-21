@@ -16,7 +16,7 @@ const Header = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Repository
+          Soure Code
         </a>
         </div>
     </header>
